@@ -136,6 +136,15 @@ body {
     overflow: hidden;
   }
 }
+.cool {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+    align-items: center;
+    margin-bottom: 40px;
+    justify-content: center;
+    margin: 45px;
+}
 @media only screen and (max-width: 767px) {
   body {
     overflow: hidden;
